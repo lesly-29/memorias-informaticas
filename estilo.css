@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+	margin: 0;
+	padding:0;
+	box-sizing:borber-box;
+	font-family:'Times New Roman',sans-serif;
+}
+
+body{
+	background: rgb(235, 230, 230);
+}
+.container-all{
+    width: 100%;
+    max-width: 1000px;
+    margin:auto;
+	padding: 66px;
+	background: rgba(241, 241, 241, 0.904);
+	margin-top: 100px;
+	margin-bottom: 100px;
+	border-top:9px solid rgb(25, 25, 112);
+	border-bottom:12px solid rgb(25, 25, 112);
+	
+
+}
+
+
+.container-all img{
+    width: 250px;
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-bottom: 30px;
+
+}
+
+.container-all p{
+	font-size: 17px;
+	font-weight: 300px;
+	margin-bottom: 50px;
+	line-height: 25px;
+	
+}
+
+.container-all h1{
+	font-size: 50px;
+	margin-bottom: 50px;
+	color: rgb(25, 25, 112);
+	text-align: center;
+	
+}
+
+.container-all h2{
+	font-size:medium;
+	font-size:30px;
+	color: rgb(25, 25, 112);
+		margin-bottom: 30px;
+}
+.container-all h3{
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: "Arial";
+	color: hsl(124, 252, 0);
+}
+
+.container-all h4{
+	background:;
+	letter-spacing: 1px;
+	border-radius: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.cuadro p{
+	background-color:green
+	font-size: 17px;
+	font-weight: 300px;
+	margin-bottom: 50px;
+	line-height: 25px;
+}
+
+
+.container-all ul{
+	font-size: 18px;
+	font-weight: 300px;
+	margin-bottom: 15px;
+	line-height: 20px;
+	
